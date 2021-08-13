@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pranav0901
-- 👀 I’m interested in Web deveopment and Data Analysis.
+- 👀 I’m interested in Web devlopment and Data Analysis.
 - 🌱 I’m currently learning Full Stack Web Development. 
 
 <!---
